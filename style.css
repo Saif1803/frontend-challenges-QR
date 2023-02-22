@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.card {
+    background-color: hsl(0, 0%, 100%);
+    padding: 15px;
+    border-radius: 18px;
+   text-align: center;
+   margin: 0 1em;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 12px;
+
+}
+.txt {
+    padding: 15px;
+}
+
+p {
+    padding: 5px;
+}
+
+
+    
